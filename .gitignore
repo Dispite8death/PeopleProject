@@ -1,0 +1,9 @@
+.local/
+.idea/
+config/local.json
+node_modules/
+*.log
+.env
+dumps/
+tests/artifacts/
+!.env.example

@@ -1,0 +1,12 @@
+{
+  "mode": "demo",
+  "apiBase": "/api/v1",
+  "timezone": "Asia/Magadan",
+  "database": {
+    "host": "127.0.0.1",
+    "port": 3307,
+    "name": "pokemon_local",
+    "user": "pokemon_app",
+    "password": "REPLACE_LOCALLY"
+  }
+}

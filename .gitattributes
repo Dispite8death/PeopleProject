@@ -1,0 +1,16 @@
+# Store text consistently and keep LF when checking out source files.
+* text=auto eol=lf
+
+# Windows command scripts use CRLF in the working tree.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary assets must never undergo line-ending conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.zip binary
+*.pdf binary

@@ -1,0 +1,322 @@
+{
+  "createdAt": "2026-10-31T12:41:14.714Z",
+  "method": "Re-rendered original HTML/CSS/JS in isolated demo browser; native PNG capture, no image upscaling or AI retouch.",
+  "deviceScaleFactor": 3,
+  "shots": [
+    {
+      "file": "02-create-details.png",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 1968,
+        "height": 1908
+      },
+      "clip": {
+        "x": 312,
+        "y": 36,
+        "width": 656,
+        "height": 636
+      },
+      "sha256": "75133607cfc9200a0aa6c232a6ee90ecfbe616e1648eb7ab954e5055b15f518d"
+    },
+    {
+      "file": "full/02-create-details.png",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 3840,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "cbadbd006d7b9c1fff46ad48701cec4bf0a26763e482a2ba3faa4520e316feda"
+    },
+    {
+      "file": "03-create-audience.png",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 1968,
+        "height": 1593
+      },
+      "clip": {
+        "x": 312,
+        "y": 426,
+        "width": 656,
+        "height": 531
+      },
+      "sha256": "bac1cc112607b4080c2be1149de139e135656556007dfc404902ff11525eded5"
+    },
+    {
+      "file": "full/03-create-audience.png",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 3840,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "5d638427ba68a1640cea7d3ac751c42782cb1b6597e678318d506f6fa1117bf0"
+    },
+    {
+      "file": "04-curator-decision.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 1980,
+        "height": 735
+      },
+      "sha256": "93812eb52d6ad71d5322408dcf6b6c8017059bf9721f76d1769f95293c9c2e7b"
+    },
+    {
+      "file": "full/04-curator-decision.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2790,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "81d3bbb1e2d28aad7a6c460d86798b5dcf1abecf3ff867790f28283a51a3ed0d"
+    },
+    {
+      "file": "05-student-invitation.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2064,
+        "height": 1791
+      },
+      "clip": {
+        "x": 231,
+        "y": 128,
+        "width": 688,
+        "height": 597
+      },
+      "sha256": "8904e67a1ab39a1604cb600384e6621e6b3767ceccce7dfe8ecfbd851e36b912"
+    },
+    {
+      "file": "full/05-student-invitation.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2790,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "ef8eef468815960868acd428f208511a72255a48887218262cd26495535cc54a"
+    },
+    {
+      "file": "06-student-confirmed.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2064,
+        "height": 1791
+      },
+      "clip": {
+        "x": 231,
+        "y": 128,
+        "width": 688,
+        "height": 597
+      },
+      "sha256": "675a80e03df2dd932f44f6b54ea70e8e66859a03143d6970820ed460c4f086ee"
+    },
+    {
+      "file": "full/06-student-confirmed.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2790,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "5bcaf937138efcff50fda602bf85d2a8196eaf7c8b173efc77bd09b0bdeef6b4"
+    },
+    {
+      "file": "01-teacher-workspace.png",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2958,
+        "height": 2349
+      },
+      "clip": {
+        "x": 270,
+        "y": 136,
+        "width": 986,
+        "height": 783
+      },
+      "sha256": "6955974f37eb9ab33c416736f629d2ab09ae4156058e610b1b5e4d2d7a763982"
+    },
+    {
+      "file": "full/01-teacher-workspace.png",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 3840,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "49793ec4f6ad5577ff0eae2fd881dbccafb1c9e115f836bd2008756f298fe669"
+    },
+    {
+      "file": "07-teacher-group-decisions.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2064,
+        "height": 1914
+      },
+      "clip": {
+        "x": 231,
+        "y": 165,
+        "width": 688,
+        "height": 638
+      },
+      "sha256": "0079329089b1f7274ffbcf3b9a36c33c182f4bd774889b68dae79d50326effbf"
+    },
+    {
+      "file": "full/07-teacher-group-decisions.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2790,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "2119bfd5683bce5f1687b1a927d4e0516a87f214cf62447bc4fe6a10e238636e"
+    },
+    {
+      "file": "details/07-group-decisions-table.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2064,
+        "height": 1071
+      },
+      "clip": {
+        "x": 231,
+        "y": 446,
+        "width": 688,
+        "height": 357
+      },
+      "sha256": "d892522c73eb133abbb21f39c8c3535680fb9834d9df43fd2ce0986f5b513243"
+    },
+    {
+      "file": "08-teacher-student-responses.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2064,
+        "height": 2109
+      },
+      "clip": {
+        "x": 231,
+        "y": 165,
+        "width": 688,
+        "height": 703
+      },
+      "sha256": "457c6cac025acd1cd74f102676d50b621366c6c31f788dd4021160c2d13fa8f4"
+    },
+    {
+      "file": "full/08-teacher-student-responses.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2790,
+        "height": 3000
+      },
+      "clip": null,
+      "sha256": "7e0d8306725d0512a42c311a38539c1f091ac9adc0af451c95233acbee91744f"
+    },
+    {
+      "file": "details/08-student-responses-table.png",
+      "viewport": {
+        "width": 930,
+        "height": 1000
+      },
+      "pixels": {
+        "width": 2064,
+        "height": 1266
+      },
+      "clip": {
+        "x": 231,
+        "y": 446,
+        "width": 688,
+        "height": 422
+      },
+      "sha256": "89daa2c60f5118b0ec7db96c86b6673495c0593a67695c862c81270e696c3d2f"
+    },
+    {
+      "file": "09-mobile-student.png",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pixels": {
+        "width": 1170,
+        "height": 2700
+      },
+      "clip": null,
+      "sha256": "a1c699e81f562b8bb2650bf520a8bf119d168fef5d85a766bbfc4466ec12fa47"
+    }
+  ],
+  "browserVersion": "153.0.8010.0",
+  "validation": {
+    "javascriptErrors": [],
+    "studentResponses": 3,
+    "accepted": 2,
+    "declined": 1
+  },
+  "sourceFiles": {
+    "templates/layout.php": "bb5f631b88aae66b55b931e62b0416d75d6c97bc1dd170666505836b2593ba41",
+    "public/assets/favicon.svg": "4318edfc5e30e5494af7ad942d0b2a8d0f44436dfd273f1c93fa0e9c48cd9ea3",
+    "public/assets/css/app.css": "392ea7f0dbe81f391b176d5adbca0700a88763b5cbb308dd40449a53761b44c6",
+    "public/assets/js/http-provider.js": "14f9fdfb446f90feb3eff7e6bbf827de2998055546cbf165b1fa1a5e18d26893",
+    "public/assets/js/ui.js": "e19984994cacfd12bd08e9cfcd4923400c6536e330fe46ad495b558bf30749c9",
+    "public/assets/js/app.js": "815693c65f4af7b74983f4b4f9733965d8e21796800a0a08d60fc53fdb5cf1bc",
+    "public/assets/js/demo-provider.js": "899aa275dc7981dfa5210182ab886e2848ad7e2207aaf08becaf5adb1db2e827",
+    "public/assets/js/seed.js": "4933fb119e716c50e0d36c8a3daaa4667f028635074b99505361a5429b92b256",
+    "public/assets/js/domain.js": "a2c7a27b59e0a555779ced99d966c7c8cdb29649d66156d650cc9d50b30fa3ff",
+    "public/assets/js/data-source.js": "ce6b8fc5784254c07667abbf2dc43059944be6f237b7cd4928b3f433214df396"
+  },
+  "notes": [
+    "Original project files were not modified. The local capture server supplies only the public demo configuration instead of executing the PHP template.",
+    "System fonts and native date controls can differ from Windows. Scenario values, UI styles and JavaScript come from the provided project.",
+    "All scenario changes were made in a fresh isolated browser profile via the demo UI."
+  ]
+}
